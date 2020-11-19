@@ -13,3 +13,4 @@ elif driving == '沒有':
 		print('你可以考駕照了啊，怎麼還不去考')
 	else:
 		print('再過幾年就可以考駕照了')
+		print('已做更改')
